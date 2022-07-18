@@ -2,3 +2,7 @@ add foods
 1.kabab
 2.niroo
 3.pitza
+add movies
+1.titanic
+2.gatby
+3. redemption
